@@ -54,6 +54,10 @@
 - 게임 하기 화면
 <img src="https://user-images.githubusercontent.com/116864806/211200116-23f1e9d2-4e51-4652-b48b-aad1b2dfaaad.png" alt="image" width="800"/>
 
+- 쪽지 보내기
+<img src="https://user-images.githubusercontent.com/116864806/211201405-1da79609-a591-4e2a-b9b6-0eab2ebabcce.png" alt="image" width="300"/>
+
+
 ## 프로젝트 사용 기술
 ## Front
 <img src="https://user-images.githubusercontent.com/116864806/211200277-c6ab2fbe-1e83-4a5d-b967-2cd78819c60d.png" alt="image" width="800"/>
